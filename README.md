@@ -14,6 +14,6 @@ Mac OSX用のユーティリティスクリプト置き場
 
 使い方
 
-* Zipファイルを展開した [UNCパスをSamba形式に変換してクリップボードにコピー.workflow](https://github.com/comoc/applescript/blob/master/UNC%E3%83%8F%E3%82%9A%E3%82%B9%E3%82%92Samba%E5%BD%A2%E5%BC%8F%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%97%E3%81%A6%E3%82%AF%E3%83%AA%E3%83%83%E3%83%95%E3%82%9A%E3%83%9B%E3%82%99%E3%83%BC%E3%83%88%E3%82%99%E3%81%AB%E3%82%B3%E3%83%92%E3%82%9A%E3%83%BC.zip) を ~/Library/Services にコピーして下さい。
+* Zipファイルを展開した UNCパスをSamba形式に変換してクリップボードにコピー.workflow を ~/Library/Services にコピーして下さい。
 
 * テキストエディタなどでUNCを含む文字列を選択して、メニューバーから アプリケーション名 -> サービス -> パスをUNCに変換してクリップボードにコピー を選択すると、文字列がSambaスキーマに変換されてクリップボードにコピーされます。
